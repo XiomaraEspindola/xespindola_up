@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+*{ 
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+body{ 
+ background-color: #2d3436;
+ font-family: 'Roboto', sans-serif;
+ }
+
+
+main{
+	width: 90%;
+	height: 650px;	
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7;
+	margin-left: auto;
+	margin-right: auto;
+	}
+nav{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7;
+	margin-left: auto;
+	margin-right: auto;
+}
+section{
+	width: 90%;
+	height: 500px;
+	background-image: url(holaa.jpg);
+	background-image: cover;
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+footer{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7; 
+	margin-left: auto;
+	margin-right: auto;
+     }
+
+
+#logo{  padding-right: 2%;
+	float: left;
+	   
+
+ }
+ 
+
+
+
+
+#menu{
+	margin: 0;
+     margin-left: 75%; 
+}
+#menu li{
+	display: inline;
+}
+
+#menu li	a {
+	font-size: 18px;
+	text-decoration: none;
+	float: right;
+	padding: 1%;
+	margin-right: 5%;
+	color:#1e272e; 
+	background-color: #ffcccc;
+	border-radius: 10px; 
+	
+}
+
+.black{ 
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+
+
+	 }
+#nombre{ 
+	     
+	     margin-left: 45%;
+	     padding-top: 2%;
+	     
+	     
+	 }
+
+#nombre a{ font-size: 9pt;
+	       color: #1e272e;
+	       text-decoration:	none; }
+
+#texto{ color:#1e272e;
+        font-size: 30pt;
+        padding: 2%;
+        margin-right: 77%;
+
+         }
+
+#redes li{
+	display: inline;
+}
+#redes li	a {
+	
+	
+	    
+	float: right;
+
+	padding: 1%;
+    
+   margin-top: -2.5%;
+   margin-right: 3px;
+
+
+	
+}
+#redes{ margin-right: 1%;
+
+	   
+	    
+
+
+
+
+
+	
+}
+
+#texto1{ color:#1e272e;
+        font-size: 10pt;
+        margin-top: 3%;
+        margin-right: 2%;
+        margin-left: 2%;
+        padding: 2%;
+        background-color:  #bdc3c7; 
+	    width: 30%;
+	    height: 450px;
+	    float: right; }
+
+#videoyoutube{ width: 580px;
+	    height: 350px;
+	    float: left;
+	    margin-top: 3%;
+        margin-right: 2%;
+        margin-left: 2%;
+        padding: 1%;
+        background-color:  #bdc3c7;  }
+
+
+
+#formulario{
+	width: 50%;
+	height: 500px;
+	max-width: 1280px;
+	background-color: #ffcccc;
+	color:#1e272e;
+    font-size: 10pt;
+    padding: 1%;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+.boton{
+	width: 200px;
+	height: 35px;
+	color: #1e272e;
+	background-color:#bdc3c7 ;
+	padding: 1%;
+	margin: 1%;
+}
+
+.cajita{
+	width: 200px;
+}
+
+.coment{
+	width: 200px;
+	height: 30px;
+}
+
+#titulopersonajes{ font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+	text-align: center; }
+#personajes { 
+   font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        margin-right: 2%;
+        margin-left: 2%;
+        padding:2%;
+        background-color:  #bdc3c7; 
+	    	    float:right;
+	    width: 95%;
+	    height: 500px; 
+	     text-align: center;}
+
+#lacie{font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+        margin-left: 15%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    	    float:left;
+	    width: 25%;
+	    height: 200px;
+	     text-align: center;}
+
+#naomi{font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+        margin-left: 60%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    	    
+	    width: 25%;
+	    height: 200px;
+	     text-align: center;}
+	    #susan{font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+        margin-left: 15%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    	    float:left;
+	    width: 25%;
+	    height: 200px;
+	     text-align: center;}
+
+#andy{font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        margin-right: 15%;
+        text-align: center;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    	    float: right;
+	    width: 25%;
+	    height: 200px;}

@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+*{ 
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+body{ 
+ background-color: #68707d;
+ font-family: 'Roboto', sans-serif;
+ }
+
+
+main{
+	width: 90%;
+	height: 650px;	
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7;
+	margin-left: auto;
+	margin-right: auto;
+	}
+nav{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7;
+	margin-left: auto;
+	margin-right: auto;
+}
+section{
+	width: 90%;
+	height: 500px;
+	background-image: url(fondo.png);
+	
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+footer{
+	width: 90%;
+	height: 50px;
+	background-color: #bdc3c7; 
+	margin-left: auto;
+	margin-right: auto;
+     }
+
+
+#logo{  padding-right: 2%;
+	float: left;
+	   
+
+ }
+ 
+
+
+
+
+#menu{
+	margin: 0;
+     margin-left: 75%; 
+}
+#menu li{
+	display: inline;
+}
+
+#menu li	a {
+	font-size: 18px;
+	text-decoration: none;
+	float: right;
+	padding: 1%;
+	margin-right: 5%;
+	color:#1e272e; 
+	background-color: #ffcccc;
+	border-radius: 10px; 
+	
+}
+
+.black{ 
+	float: left;
+	margin-left: 1%;
+	margin-top: 1%;
+
+
+	 }
+#nombre{ 
+	     
+	     margin-left: 45%;
+	     padding-top: 2%;
+	     
+	     
+	 }
+
+#nombre a{ font-size: 9pt;
+	       color: #1e272e;
+	       text-decoration:	none; }
+
+#texto{ color:#1e272e;
+        font-size: 30pt;
+        padding: 2%;
+        margin-right: 77%;
+
+         }
+
+#redes li{
+	display: inline;
+}
+#redes li	a {
+	
+	
+	    
+	float: right;
+
+	padding: 1%;
+    
+   margin-top: -2.5%;
+   margin-right: 3px;
+
+
+	
+}
+#redes{ margin-right: 1%;
+
+	   }
+	    
+
+#textom{ color:#1e272e;
+        font-size: 15pt;
+        margin-top: 3%;
+        margin-right: 2%;
+        margin-left: 2%;
+        padding: 2%;
+        background-color:  #bdc3c7; 
+	    width: 30%;
+	    float: right;
+	    text-align: center; }
+
+
+.yo{ 
+	    float: middle;
+	    margin-top: 3%;
+        margin-right: 2%;
+        margin-left: 2%;
+        padding: 1%;
+        background-color:  #bdc3c7;  }
+
+
+
+
+
+
+
+
+#imagenesdiseño{ text-align: center;
+   font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+       margin-right: 2%;
+        margin-left: 2%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	
+	    float: center;
+	    width: 95%;
+	    height: 500px;
+	    
+	 }
+	
+
+
+#imagenesrelevamiento{ text-align: center;
+   font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+       
+        margin-right: 2%;
+        margin-left: 2%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    width: 95%;
+	    height:500px;
+	    float: center;
+	    
+	 }
+
+#imagenesweb{ text-align: center;
+   font-size: 18px;
+	text-decoration: none; 
+	color:#1e272e;
+        
+       
+        margin-right: 2%;
+        margin-left: 2%;
+        padding:2%;
+        background-color:  #ffcccc; 
+	    width: 95%;
+	    height:500px;
+	    float: center; }
